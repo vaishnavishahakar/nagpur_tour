@@ -2,3 +2,12 @@ body{
     margin: 0;
     padding: 0;
 }
+
+.header-image{
+    height: 400px;
+    width: 500px;
+    object-fit: cover;
+    align-items: center;
+    margin: 10px 420px;
+}
+

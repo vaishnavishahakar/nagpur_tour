@@ -1,8 +1,9 @@
 import ReactDOM from 'react-dom/client';
 import "./index.css"
-import Home from './Home';
-import About from './About';
-import Contact from './Contact';
+
+import Home from './views/Deeksha-Bhoomi/Deeksha-Bhoomi';
+import About from './views/Raman_Science_Centre/Raman_Science_Centre';
+import Contact from './views/Shri Swaminarayan Mandir/Shri Swaminarayan Mandir';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 

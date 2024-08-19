@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Navbar from '../../components/Navbar/Navbar';
-import SSMimg from './../Shri Swaminarayan Mandir/Shri Swaminarayan Mandir.webp'
+import SSMimg from './Shri_Swaminarayan_Mandir.webp'
 
 function Shri_Swaminarayan_Mandir() {
   return (

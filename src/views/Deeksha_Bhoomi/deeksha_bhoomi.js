@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from '../../components/Navbar/Navbar';
-import DBimg from './../Deeksha-Bhoomi/deeksha-bhoomi.jpg'
+import DBimg from './deeksha_bhoomi.jpg'
 
 function Deeksha_Bhoomi() {
   return (

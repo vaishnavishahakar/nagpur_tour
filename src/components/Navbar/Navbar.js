@@ -10,7 +10,7 @@ function Navbar() {
       <div className='navbar-links'>
         <a href='/' className='navbar-link'>Deeksha-Bhoomi</a>
         <a href='/Raman_Science_Centre' className='navbar-link'>Raman_Science_Centre</a>
-        <a href='/Shri Swaminarayan Mandir' className='navbar-link'>Shri Swaminarayan Mandir</a>
+        <a href='/shri_swaminarayan_mandir' className='navbar-link'>Shri Swaminarayan Mandir</a>
       </div>
     </div>
   );

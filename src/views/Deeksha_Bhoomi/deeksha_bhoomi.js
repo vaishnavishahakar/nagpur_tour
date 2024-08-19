@@ -1,16 +1,16 @@
 import React from 'react';
 import Navbar from '../../components/Navbar/Navbar';
-import HomeImg from './../Deeksha-Bhoomi/deeksha-bhoomi.jpg'
+import DBimg from './../Deeksha-Bhoomi/deeksha-bhoomi.jpg'
 
-function Home() {
+function Deeksha_Bhoomi() {
   return (
    
     <div>
     <Navbar/>
      <h1 className='page-title'>Deeksha-Bhoomi</h1>
-     <img src={HomeImg} className='header-image'/>
+     <img src={DBimg} className='header-image'/>
     </div>
   );
 }
 
-export default Home;
+export default Deeksha_Bhoomi;

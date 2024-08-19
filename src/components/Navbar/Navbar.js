@@ -8,9 +8,9 @@ function Navbar() {
         </span>
 
       <div className='navbar-links'>
-        <a href='/' className='navbar-link'>Home</a>
-        <a href='/about' className='navbar-link'>About</a>
-        <a href='/contact' className='navbar-link'>Contact</a>
+        <a href='/' className='navbar-link'>Deeksha-Bhoomi</a>
+        <a href='/Raman_Science_Centre' className='navbar-link'>Raman_Science_Centre</a>
+        <a href='/Shri Swaminarayan Mandir' className='navbar-link'>Shri Swaminarayan Mandir</a>
       </div>
     </div>
   );
